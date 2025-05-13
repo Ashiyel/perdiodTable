@@ -1,6 +1,14 @@
 body {
     background-color: rgb(255, 255, 255);
+    padding-left:100px;
+    padding-right: 100px;
 }
+
+h1{
+    font-size: xx-large;
+    padding-left: 10px;
+}
+
 table {
     justify-content: center;
 }
@@ -32,8 +40,11 @@ th.pName {
     align-items: center;
   
   img.periodic-image {
+    padding-bottom: 25px;
+    padding-top: 25px;
     width: 10%;
     max-width: 400px;
     height: auto;
   }
+
   
