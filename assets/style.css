@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+table {
+    justify-content: center;
+}
+
+th {
+    
+
+    background-color: aliceblue;
+    border-radius: 0%;
+    border-color: 10px rgb(0, 0, 0);
+    border-style: solid;
+    margin: 50%
+
+}
+th.empty {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
+
+th.pNum {
+    font-size: small;
+
+}
+th.pName {
+    font-size: ;
+}
